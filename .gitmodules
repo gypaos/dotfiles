@@ -4,3 +4,6 @@
 [submodule "vim/pack/my-plugins/start/vim-latex"]
 	path = vim/pack/my-plugins/start/vim-latex
 	url = https://github.com/vim-latex/vim-latex
+[submodule "vim/pack/my-plugins/start/vim-clang-format"]
+	path = vim/pack/my-plugins/start/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format
