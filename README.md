@@ -1,6 +1,6 @@
 # dotfiles
 
-This repository contains my dotfiles for the vim editor, the zsh shell and the ROOT data analysi framework (more to come...).
+This repository contains my dotfiles for the vim editor, the zsh shell and the ROOT data analysis framework (more to come...).
 
 
 ## Prerequisites
