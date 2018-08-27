@@ -2,6 +2,12 @@
 
 This repository contains my dotfiles for the vim editor, the zsh shell and the ROOT data analysi framework (more to come...).
 
+
+## Prerequisites
+
+None
+
+
 ## Installing
 
 For standard https installation, do:
