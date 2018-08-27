@@ -4,7 +4,6 @@ This repository contains my dotfiles for the vim editor, the zsh shell and the R
 
 ## Installing
 
-First get the source code from github
 ```
-$ git clone https://github.com/gypaos/dotfiles
+$ git clone --recurse-submodules https://github.com/gypaos/dotfiles
 ```
