@@ -1,0 +1,17 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/dotfiles: ''
+
+    # ROOT (CERN)
+    ~/.rootlogon.C: rootlogon.C
+
+    # vim
+    ~/.vimrc: vimrc
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
