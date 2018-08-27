@@ -6,5 +6,5 @@ This repository contains my dotfiles for the vim editor, the zsh shell and the R
 
 First get the source code from github
 ```
-$ git clone https://github.com/gypaos/AstroTools
+$ git clone https://github.com/gypaos/dotfiles
 ```
